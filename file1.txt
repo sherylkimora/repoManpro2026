@@ -1,3 +1,4 @@
 isi file1 
 
 isi baris
+baris baru dari lokal 
