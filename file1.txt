@@ -1,1 +1,3 @@
 isi file1 
+
+isi baris
